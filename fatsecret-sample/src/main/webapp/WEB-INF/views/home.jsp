@@ -10,5 +10,7 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
+
+<h2> Total Food Count : ${count }</h2>
 </body>
 </html>
