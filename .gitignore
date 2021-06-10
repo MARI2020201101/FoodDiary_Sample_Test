@@ -6,4 +6,5 @@
 .metadata/**
 **/utility/**
 root-context.xml
+ConnectionTest.java
 
